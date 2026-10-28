@@ -7,6 +7,9 @@ A brief description of what this project does and who it's for
 
 This project documents the step-by-step process to launch and connect to a Windows EC2 instance on AWS.
 
+## Documentation
+[CSA-Unit4-Assignment-Documentation.pdf](CSA-Unit4-Assignment-Documentation.pdf)
+
 ## 🔧 Services Used
 - Amazon VPC
 - Subnets & Route Tables
